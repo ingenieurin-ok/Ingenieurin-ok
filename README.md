@@ -1,4 +1,6 @@
-## Hi there 👋
+This is my new account and it will develop over time.
+# Hi, I'm Oksana 👋
+QA Test Engineer with more than 3 years of commertial experience.
 
 <!--
 **ingenieurin-ok/Ingenieurin-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
