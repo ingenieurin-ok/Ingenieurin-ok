@@ -1,18 +1,24 @@
 This is my new account and it will develop over time.
 # Hi, I'm Oksana 👋
-QA Test Engineer with more than 3 years of commertial experience
+QA Test Engineer with more than 5 years of commertial experience
 
 ## 🛠 Technical Stack
-*   Python,GOlang languages
+*   Python
 *   SQL
-*   Jira
-*   Postman
-*   GitHub
+*   RestAPI
+
 ### Education and certificates
 *   ISTQB® Certified Tester Foundation Level
 *   B2 (FCE) Polina Kordik School of English
-*   Tester 2024. Web/Mobile, Postman, SQL, Git, Bash. Created by A.Rusau (Udemy.com)
+*   Tester 2026. Web/Mobile, Postman, SQL, Git, Bash. Created by A.Rusau (Udemy.com)
 *   Bachelor and specialist in technical cybernetics (SN Technical University)
+🔭 I’m currently working on improving my auto QA skills and building a small testing portfolio  
+🌱 I’m currently learning Playwright 
+👯 I’m looking to collaborate on beginner-friendly QA or testing projects 
+🤔 I’m looking for help with test automation and best practices in QA
+💬 Ask me about anything
+📫 How to reach me: ingenieurin.ok@gmail.com
+⚡ Fun fact: I enjoy finding bugs more than using apps normally
     
   <p align='left'>
    📫 How to reach me: <a href='mailto:ingenieurin.ok@gmail.com'>ingenieurin.ok@gmail.com</a>
